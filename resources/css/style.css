@@ -7,7 +7,7 @@ body {text-align: center;
 .design_strip {background-image: url("../images/building.png");
                font-size: 23px;
                font-weight: bold;
-               color: white;}
+               color: white; }
 
 h1  {font-family: Helvetica;
     font-size: 70px;
@@ -28,3 +28,15 @@ h3 {font-family: Helvetica;
 
 p {font-family: Helvetica;
    font-size: 14px;}
+
+.title_list a:link {color: white;}
+
+.title_list a:visited {color: white;}
+
+.footer {text-align: left;
+         background-color: dimgray;
+         font-size: 11px;
+         color: white;}
+.footer a:link {color: white;}
+
+.footer a:visited {color: white;}
